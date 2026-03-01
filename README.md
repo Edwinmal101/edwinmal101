@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/edwin-maldonado-it95/">Edwin Maldonado</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Cybersecurity student at WGU | CompTIA A+, Network+, Security+, ITIL v4 | Google IT Support Professional. Building hands-on labs in Active Directory, networking, and security fundamentals. Focused on strengthening technical skills and transitioning into a cybersecurity role.
 
 
 ## ⚠️ Vulnerability Management Projects
